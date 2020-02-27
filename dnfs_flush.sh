@@ -12,7 +12,7 @@ SET SERVEROUTPUT ON
 set feedback off
 set heading off
 set echo off
-set linesize 120
+set linesize 180
 set pagesize 100
 set verify off
 
